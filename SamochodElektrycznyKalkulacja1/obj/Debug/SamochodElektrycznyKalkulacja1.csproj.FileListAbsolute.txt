@@ -1,0 +1,9 @@
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\bin\Debug\SamochodElektrycznyKalkulacja1.exe.config
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\bin\Debug\SamochodElektrycznyKalkulacja1.exe
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\bin\Debug\SamochodElektrycznyKalkulacja1.pdb
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.Form1.resources
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.Properties.Resources.resources
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.csproj.GenerateResource.cache
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.exe
+C:\Users\Radek\source\repos\SamochodElektrycznyKalkulacja1\SamochodElektrycznyKalkulacja1\obj\Debug\SamochodElektrycznyKalkulacja1.pdb
